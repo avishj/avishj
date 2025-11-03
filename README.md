@@ -1,4 +1,4 @@
-### Hi there 👋, I'm AJ!
+### Hello! I'm Avish J. (AJ).
 I'm absolutely hooked on coding! Right now, I'm busy crafting algorithms to jazz up warehouse automation over at Addverb. I'm all ears for teaming up and diving into fresh projects. Slide into my DMs anytime! 🚀
 
 Skills: Loads of stuff, always learning!
