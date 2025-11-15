@@ -1,1 +1,5 @@
-Hi, I'm Avish J. (AJ). I study CS @ CMU. Always looking to work on something exciting :)
+### Hi! I'm Avish J. (AJ)
+
+> Currently: CS @ CMU
+
+I build high-performance automation tools and love tackling complex system problems.
